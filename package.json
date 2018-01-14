@@ -1,0 +1,21 @@
+{
+  "name": "get_latest_worldwideshow",
+  "version": "1.0.0",
+  "description": "Get automtically the latest worldwide show Gilles Peterson",
+  "main": "worldwide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "worldwide",
+    "radio",
+    "bbc",
+    "radio6"
+  ],
+  "author": "Georg Kettele",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^0.9.0",
+    "loading-cli": "^1.0.4"
+  }
+}
