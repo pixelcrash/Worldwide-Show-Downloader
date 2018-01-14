@@ -15,11 +15,11 @@ To download the latest show you simply have to run the app
 
 ```$ node worldwide.js```
 
-To download will take some time, be patient - it will try to get the best quality 
+The download will take some time, be patient. It will try to get the file with the best audio quality 
 
-After the download is done, you will have a *.m4a audio file with the correct filename 
+After the download is done, you will have a *.m4a audio file with the correct filename and cover image.
 
-You can run this command every week 
+Just run this command every week to never miss a show
 
 ## Next steps ##
 Download all available shows
